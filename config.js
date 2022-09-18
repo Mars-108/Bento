@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=4hik2eUscjo',
 				},
 				{
 					name: 'Classic',
@@ -148,11 +148,11 @@ const CONFIG = {
 				},
 				{
 					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=LC2WpBcdM_A',
 				},
 				{
 					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=BN1WwnEDWAM',
 				},
 			],
 		},
@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Lo-Fi',
+					link: 'https://lofi.co/',
 				},
 				{
 					name: 'Trello',
